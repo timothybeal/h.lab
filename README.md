@@ -2,11 +2,12 @@
 
 **[Timothy Beal](https://www.timothybeal.com), Director**
 
+<img src="images/hlab_logo.png?inline=true" title="Logo" width="200">
+
 H.lab uses this site for ongoing work in progress (links to repos, tutorials, etc.). 
 
 Learn more about h.lab [here](https://www.case.edu/artsci/hlab).
 
-<img src="images/hlab_logo.png?inline=true" title="Title" width="300">
 
 
 
