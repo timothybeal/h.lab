@@ -1,4 +1,5 @@
 **Case Western Reserve University**
+
 **[Timothy Beal](https?//www.timothybeal.com), Director**
 
 **_We use this Github Pages site for ongoing work in progress (links to repos, tutorials, etc.). To learn more about h.lab, [go here](https://www.case.edu/artsci/hlab)._**
