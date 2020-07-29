@@ -1,14 +1,14 @@
+<img src="/hlab_logo.png" width="200" height="200" />
+
 **Case Western Reserve University**
 
 **[Timothy Beal](https://www.timothybeal.com), Director**
-
-![Logo](hlab_logo.png)
 
 H.lab uses this site for ongoing work in progress (links to repos, tutorials, etc.). 
 
 Learn more about h.lab [here](https://www.case.edu/artsci/hlab).
 
-<img src="/hlab_logo.png" width="150" height="150" />
+
 
 
 
