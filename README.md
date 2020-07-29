@@ -4,8 +4,6 @@
 
 <img src="images/hlab_logo.png?inline=true" title="Logo" width="200">
 
-![Logo](images/hlab_logo.png?inline=true "Logo")
-
 H.lab uses this site for ongoing work in progress (links to repos, tutorials, etc.). 
 
 Learn more about h.lab [here](https://www.case.edu/artsci/hlab).
