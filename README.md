@@ -6,7 +6,7 @@ H.lab uses this site for ongoing work in progress (links to repos, tutorials, et
 
 Learn more about h.lab [here](https://www.case.edu/artsci/hlab).
 
-![Title](raw/latest/hlab_logo.png?inline=true "Title")
+<img src="images/hlab_logo.png?inline=true" title="Title" width="500">
 
 
 
