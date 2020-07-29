@@ -2,9 +2,7 @@
 
 **[Timothy Beal](https://www.timothybeal.com), Director**
 
-<img src="images/hlab_logo.png?inline=true" title="Logo" width="200">
-
-![Logo](hlab_logo.png)
+![Logo](hlab_logo.png){:height="150px" width="150px"}
 
 H.lab uses this site for ongoing work in progress (links to repos, tutorials, etc.). 
 
