@@ -6,9 +6,7 @@ H.lab uses this site for ongoing work in progress (links to repos, tutorials, et
 
 Learn more about h.lab [here](https://www.case.edu/artsci/hlab).
 
-![image](https://github.com/timothybeal/images/hlab_logo.png)
-
-
+![image](src="https://github.com/timothybeal/images/hlab_logo.png")
 
 
 
