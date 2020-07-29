@@ -1,12 +1,12 @@
 **Case Western Reserve University**
 
-**[Timothy Beal](https?//www.timothybeal.com), Director**
+**[Timothy Beal](https://www.timothybeal.com), Director**
 
 H.lab uses this site for ongoing work in progress (links to repos, tutorials, etc.). 
 
 Learn more about h.lab [here](https://www.case.edu/artsci/hlab).
 
-![image](src="https://github.com/timothybeal/images/hlab_logo.png")
+![image](src="timothybeal/images/hlab_logo.png")
 
 
 
