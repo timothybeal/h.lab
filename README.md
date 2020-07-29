@@ -1,5 +1,3 @@
-<img src="/hlab_logo.png" width="200" height="200" />
-
 **Case Western Reserve University**
 
 **[Timothy Beal](https://www.timothybeal.com), Director**
@@ -8,11 +6,19 @@ H.lab uses this site for ongoing work in progress (links to repos, tutorials, et
 
 Learn more about h.lab [here](https://www.case.edu/artsci/hlab).
 
+<img src="/hlab_logo.png" width="215" height="215" />
 
 
 
 
 
+
+
+
+### 
+###
+###
+###
 ### Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/timothybeal/hlab/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
