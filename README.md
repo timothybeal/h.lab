@@ -4,7 +4,7 @@
 
 H.lab uses this site for ongoing work in progress (links to repos, tutorials, etc.). 
 
-Learn more about h.lab [here](https://www.case.edu/artsci/hlab)._**
+Learn more about h.lab [here](https://www.case.edu/artsci/hlab).
 
 
 
