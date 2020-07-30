@@ -2,3 +2,26 @@ theme: jekyll-theme-minimal
 logo: /hlab_logo.png
 title: h.lab
 description: empowering students and scholars in the humanities to experiment with and critically reflect on new and emerging computational technologies
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/hlab_CWRU
+    desc: Follow on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+- icon:	github
+    url:	https://github.com/timothybeal
+    desc:	Fork Timothy on github
+    share_url:
+    share_title:
+    share_link:
+
+- icon: envelope
+    url:  mailto:hlab@case.edu
+    desc: Email
+    share_url:
+    share_title:
+    share_link:
