@@ -4,7 +4,7 @@ title: "LEARNING"
 permalink: learning
 ---  
 
-# h.lab LEARNING #  
+# LEARNING #  
 
 ---  
 Forthcoming ...
