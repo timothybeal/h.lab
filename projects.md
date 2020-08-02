@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "PROJECTS"
 permalink: projects
 ---   
@@ -9,3 +9,7 @@ permalink: projects
 ---  
   
 Forthcoming ...
+
+---
+
+[back](./)
