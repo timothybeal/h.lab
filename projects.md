@@ -4,7 +4,7 @@ title: "PROJECTS"
 permalink: projects
 ---   
 
-# h.lab  PROJECTS #  
+# PROJECTS #  
   
 ---  
   
