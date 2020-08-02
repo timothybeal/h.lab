@@ -1,11 +1,10 @@
 ---
 layout: page
-style: default
 title: "LEARNING"
 permalink: learning
-logo: /hlab_logo.png
 ---  
-  
+
+![alt text](https://github.com/timothybeal/hlab/hlab_logo.png "Logo")
 
 ## h.lab LEARNING ##  
 
