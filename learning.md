@@ -7,7 +7,7 @@ permalink: learning
 # LEARNING #  
 
 ---  
-## COURSES ##
+## *COURSES* ##
 
 *New for Spring 2021 at CWRU!*
 
@@ -15,13 +15,13 @@ permalink: learning
 
 ---
 
-## DIY TUTORIALS ##
+## *DIY TUTORIALS* ##
 
   + **[Build a Bot.](https://colab.research.google.com/drive/18f0pvnrb7I7IAYu1soWRBi4RiwLbW5Iy?usp=sharing)** This Google Colab notebook offers easy-to-follow directions to make your own fully functional text bot. Based on the code for KJVBot, it auto-generates its own verses based on the King James Version Bible. It is easily adaptable to other texts. No coding experience is necessary here, but each step is annotated for those who want to understand more about what's going on from line to line.
 
 ---
 
-## RECOMMENDED RESOURCES ##
+## *RECOMMENDED RESOURCES* ##
 
   + **[Python for Everybody.](https://www.py4e.com/)** Dr. Charles Severance’s outstanding, free series of courses for learning Python and data visualization. Includes clear and helpful videos, exercises, and quizzes. No experience necessary!
   
