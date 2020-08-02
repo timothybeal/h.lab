@@ -1,13 +1,13 @@
 ---
 layout: page
+style: default
 title: "PROJECTS"
 permalink: projects
----  
-
-![alt text](https://github.com/timothybeal/hlab/hlab_logo.png "Logo")  
+logo: /hlab_logo.png
+---   
   
 
-## PROJECTS ##  
+## h.lab PROJECTS ##  
   
 ---  
   
