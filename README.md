@@ -3,10 +3,13 @@ Directed by [Timothy Beal](https://www.timothybeal.com), [College of Arts and Sc
 ---
 
 ## [LEARNING](https://timothybeal.github.io/hlab/learning) ##  
-  
+
+---
   
 ## [PROJECTS](https://timothybeal.github.io/hlab/projects) ##  
   
+---
+
   
 
 
