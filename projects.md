@@ -29,14 +29,14 @@ permalink: projects
 
 | The intentionally provocative phrase “artificial creativity” means to question familiar cultural distinctions between human and machine. On the one hand, in common parlance, where "artificial" refers to fakes and copies, the phrase might connote imitating or “faking” human creativity. Are “machine learning” and related forms of generativity simply imitative of human learning and generativity, or are they something more and/or other? On the other hand, insofar as “artificial” refers to the work of artifice, the phrase is redundant. Is not all creativity, human and/or machine, in this sense artificial?  
 
-| [KJV Bot.](https://twitter.com/kjvbot) A bot that autogenerates biblicalish utterances based on markovian machine learning from the King James Version of the Bible. [Link to code on GitHub.](https://github.com/timothybeal/kjvbot).  
+| [KJV Bot.](https://twitter.com/kjvbot) A bot that autogenerates biblicalish utterances based on markovian machine learning from the King James Version of the Bible. [Link to code on GitHub.](https://github.com/timothybeal/kjvbot)  
 
 | [Emily Markovson.](https://twitter.com/emilymarkovson) A bot that autogenerates and then tweets four-line poems based on markovian machine learning from the complete works of Emily Dickinson.  
 
-| Try making your own bot and experiment with it using h.lab's DIY tutorial, [Build a Bot.](https://colab.research.google.com/drive/18f0pvnrb7I7IAYu1soWRBi4RiwLbW5Iy?usp=sharing)  
-
 | [Link to additional code and related files on GitHub.](https://github.com/timothybeal/artificialcreativity)  
-  
+
+| Do it yourself! Make your own bot and experiment with it using h.lab's DIY tutorial, [Build a Bot.](https://colab.research.google.com/drive/18f0pvnrb7I7IAYu1soWRBi4RiwLbW5Iy?usp=sharing) 
+
 &nbsp; 
   
 ---
