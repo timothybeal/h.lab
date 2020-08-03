@@ -8,9 +8,13 @@ permalink: projects
   
 ---  
   
-## *Purity and Danger* ##
+## *Purity and Danger* ##  
 
 > Terms of purity and danger, sameness and otherness, that operate in the semantic frame of medicine and health (e.g., infection, contagion, foreign body, im/pure, un/clean, un/scathed, distance, quarantine, abject) are also common in contexts of social identity and difference, especially when projecting racial and ethnic otherness as threats to the integrity and wellbeing of social bodies. How might the prevalence of this language in the medical frame during the COVID-19 crisis relate to racist and xenophobic uses of it? Is an increase in the former leading to an increase in the latter? Will it do so in years to come? This project aims to develop a computational model using neural networks to explore possible relationships between the uses of such language in these two different frames. 
+
+## *h.lab Embedded* ##  
+
+> This collaborative project seeks to develop capacity for interdisciplinary human-tech collaboration by designing, building, and testing a shared vocabulary and framework for embeddable, team-based ethical engagement with and critical reflection on new research in data science, AI, and other emerging technologies. We will test our team model and process by embedding ourselves in specific research projects at CWRU. The model would also be adaptable to enterprise projects outside the academy.  
 
 ## *Face of the Deep* ##
 
@@ -32,11 +36,6 @@ permalink: projects
 > Try making your own bot and experiment with it using h.lab's DIY tutorial, [Build a Bot.](https://colab.research.google.com/drive/18f0pvnrb7I7IAYu1soWRBi4RiwLbW5Iy?usp=sharing)  
 
 > [Link to additional code and related files on GitHub.](https://github.com/timothybeal/artificialcreativity)
-
-## *h.lab Embedded* ## 
-
-> This collaborative project seeks to develop capacity for interdisciplinary human-tech collaboration by designing, building, and testing a shared vocabulary and framework for embeddable, team-based ethical engagement with and critical reflection on new research in data science, AI, and other emerging technologies. We will test our team model and process by embedding ourselves in specific research projects at CWRU. The model would also be adaptable to enterprise projects outside the academy.  
-
 
 &nbsp; 
   
