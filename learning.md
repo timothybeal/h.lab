@@ -23,9 +23,9 @@ permalink: learning
 
 ## *OTHER RECOMMENDED RESOURCES* ##
 
-  + **[Python for Everybody.](https://www.py4e.com/)** Dr. Charles Severance’s outstanding, free series of courses for learning Python and data visualization. Includes clear and helpful videos, exercises, and quizzes. No experience necessary!
+  + **[Python for Everybody.](https://www.py4e.com/){:target="_blank"}** Dr. Charles Severance’s outstanding, free series of courses for learning Python and data visualization. Includes clear and helpful videos, exercises, and quizzes. No experience necessary!
   
-  + **[The Programming Historian.](https://programminghistorian.org)** "We publish novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows to facilitate research and teaching."
+  + **[The Programming Historian.](https://programminghistorian.org){:target="_blank"}** "We publish novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows to facilitate research and teaching."
 
 ---  
 &nbsp;
