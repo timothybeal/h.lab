@@ -19,8 +19,11 @@ permalink: learning
 &nbsp; &nbsp; &nbsp; Appropriate to its content, this is a hybrid course, combining asynchronous individual and collaborative work online with on-site sessions to share work in progress and facilitate critical reflection and theorizing about that work. Evaluation based on mastery of basic Python, an individual coding project, and a collaborative group coding project.
 
 ---
+## *COMMUNITY* ##
 
+   + **[Data Science Colloquium.](https://cognitivescience.case.edu/data-science-colloquium/){:target="_blank"}** Spring 2020. A project of the Data Science Across the College initiative, directed by Mark Turner and Timothy Beal and supported by CWRU President Barbara Snyder, to build on strengths and potentials across many fields, including the arts and humanities, social and behavioral sciences, and natural and mathematical sciences, to elevate data science and machine learning as a college-wide focus for research, scholarship, and curriculum development. All presentations available as Zoom recordings.
 
+---
 ## *OTHER RECOMMENDED RESOURCES* ##
 
   + **[Python for Everybody.](https://www.py4e.com/){:target="_blank"}** Dr. Charles Severance’s outstanding, free series of courses for learning Python and data visualization. Includes clear and helpful videos, exercises, and quizzes. No experience necessary!
