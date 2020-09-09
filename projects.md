@@ -17,7 +17,8 @@ permalink: projects
 ## *h.lab Embedded* ##  
 
 | Supported by a [Think Big RFP grant (Pathway 2: Human-Tech)](https://case.edu/thinkbig/ways-engage/think-big-rfps){:target="_blank_"} from the Office of the Provost, Case Western Reserve University.  
-| This collaborative project seeks to develop capacity for interdisciplinary human-tech collaboration by designing, building, and testing a shared vocabulary and framework for embeddable, team-based ethical engagement with and critical reflection on new research in data science, AI, and other emerging technologies. We will test our team model and process by embedding ourselves in specific research projects at CWRU. The model would also be adaptable to enterprise projects outside the academy.  
+| This collaborative project seeks to develop capacity for interdisciplinary human-tech collaboration by designing, building, and testing a shared vocabulary and framework for embeddable, team-based ethical engagement with and critical reflection on new research in data science, AI, and other emerging technologies. We will test our team model and process by embedding ourselves in specific research projects at CWRU. The model would also be adaptable to enterprise projects outside the academy.
+| Collaborating organizations include the [AI Institute at Iliff](https://ai.iliff.edu){:target="_blank_"}, the [Inamori International Center for Ethics and Excellence](https://case.edu/inamori/){:target="_blank_"}, the [Baker-Nord Center for the Humanities](https://case.edu/artsci/bakernord/){:target="_blank_"}, [Red Hen Lab](https://sites.google.com/site/distributedlittleredhen/home){:target="_blank_"}, and the [Freedman Center for Digital Scholarship](https://case.edu/library/spaces/freedman-center){:target="_blank_"}.
 
 ## *Face of the Deep* ##
 
