@@ -9,7 +9,17 @@ permalink: learning
 ---
 ## *COMMUNITY* ##
 
-  + **[Coding and Data Science for the Humanities.](https://cognitivescience.case.edu/data-science-colloquium/){:target="_blank"}** Fall 2020 and Spring 2021. Highly accessible, humanities friendly presentations (live and recorded), including DIY tutorials to try on your own (see "DIY Tutorials," below). A special series of the Data Science Colloquium, which is a project of the Data Science Across the College initiative, directed by Mark Turner and Timothy Beal, in collaboration with [h.lab](https://case.edu/artsci/hlab/){:target="_blank"}, [Red Hen Lab](https://sites.google.com/site/distributedlittleredhen/home){:target="_blank"}, and [AI.Iliff](https://ai.iliff.edu){:target="_blank"}. All presentations available as Zoom recordings, most of which are accompanied by hands-on DIY tutorials. 
+  + **[Coding and Data Science for the Humanities.](https://cognitivescience.case.edu/data-science-colloquium/){:target="_blank"}** Fall 2020 and Spring 2021. Highly accessible, humanities friendly presentations (live and recorded), including DIY tutorials to try on your own (see "DIY Tutorials," below). A special series of the Data Science Colloquium, which is a project of the Data Science Across the College initiative, directed by Mark Turner and Timothy Beal, in collaboration with [h.lab](https://case.edu/artsci/hlab/){:target="_blank"}, [Red Hen Lab](https://sites.google.com/site/distributedlittleredhen/home){:target="_blank"}, and [AI.Iliff](https://ai.iliff.edu){:target="_blank"}. All presentations available as Zoom recordings. Schedule so far:
+  
+    "Getting Started with Coding for Humanities Scholars," by [Micah Saxton](https://tischlibrary.tufts.edu/about-us/people/micah-saxton), Tufts University, with [Michael Hemenway](https://michaelphemenway.com/resume/), AI.Iliff, October 28, 2020 @ 3pm ET
+  
+    “Build a Bot: A DIY Toy that Makes You Think,” by [Timothy Beal](https://case.edu/artsci/hlab/about/timothy-beal), Department of Religious Studies, November 4, 2020 @ 3pm ET
+
+    “Transformers: Analyzing Language with Deep Learning,” by Justin Barber and [Michael Hemenway](https://michaelphemenway.com/resume/), AI.Iliff, November 18, 2020 @ 3pm ET
+
+    “Data Science and Art: Conservation and Attribution,” by T.B.D., Department of Art History and Art and Department of Physics, December 9, 2020 @ 3:00 pm ET
+  
+    "T.B.D.," by [Cristóbal Pagán Cánovas](https://sites.google.com/site/cristobalpagancanovas/), University of Murcia and University of Tübingen, April 14, 2021 @ 3pm ET
 
   + **[Data Science Colloquium.](https://cognitivescience.case.edu/data-science-colloquium/){:target="_blank"}** Spring 2020. A project of the Data Science Across the College initiative, directed by Mark Turner and Timothy Beal and supported by a grant from former CWRU President Barbara Snyder, to build on strengths and potentials across many fields, including the arts and humanities, social and behavioral sciences, and natural and mathematical sciences, to elevate data science and machine learning as a college-wide focus for research, scholarship, and curriculum development. All presentations available as Zoom recordings.
 
