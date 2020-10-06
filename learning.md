@@ -18,8 +18,15 @@ permalink: learning
     “Transformers: Analyzing Language with Deep Learning,” by Justin Barber and [Michael Hemenway](https://michaelphemenway.com/resume/), AI.Iliff, November 18, 2020 @ 3pm ET
 
     “Data Science and Art: Conservation and Attribution,” by T.B.D., Department of Art History and Art and Department of Physics, December 9, 2020 @ 3:00 pm ET
-  
-    "T.B.D.," by [Cristóbal Pagán Cánovas](https://sites.google.com/site/cristobalpagancanovas/), University of Murcia and University of Tübingen, April 14, 2021 @ 3pm ET
+    
+    "Introduction to the Red Hen Lab Rapid Annotator," by Peter Uhrig, February 10, 2021 @ 3pm ET
+    
+    "Data Science for FrameNet and Frame Blends," by [Wenyue Xi](https://www.linkedin.com/in/wenyue-xi-b21b57a4) and [Mark Turner](https://markturner.org), February 24, 2021 @ 3pm ET
+    
+    Presentation by Tiago Torrent, Federal University of Juiz de Fora – FrameNet Brasil, March 10, 2021 @ 3pm ET
+    
+    Presentation by [Cristóbal Pagán Cánovas](https://sites.google.com/site/cristobalpagancanovas/), University of Murcia and University of Tübingen, April 14, 2021 @ 3pm ET
+
 
   + **[Data Science Colloquium.](https://cognitivescience.case.edu/data-science-colloquium/){:target="_blank"}** Spring 2020. A project of the Data Science Across the College initiative, directed by Mark Turner and Timothy Beal and supported by a grant from former CWRU President Barbara Snyder, to build on strengths and potentials across many fields, including the arts and humanities, social and behavioral sciences, and natural and mathematical sciences, to elevate data science and machine learning as a college-wide focus for research, scholarship, and curriculum development. All presentations available as Zoom recordings.
 
