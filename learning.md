@@ -33,7 +33,7 @@ permalink: learning
 ---  
 ## *DIY TUTORIALS* ##
 
-  + **[Build a Bot.](https://colab.research.google.com/drive/18f0pvnrb7I7IAYu1soWRBi4RiwLbW5Iy?usp=sharing){:target="_blank"}** This Google Colab notebook offers easy-to-follow directions to make your own fully functional text bot. Based on the code for KJVBot, it auto-generates its own verses based on the King James Version Bible. It is easily adaptable to other texts. No coding experience is necessary here, but each step is annotated for those who want to understand more about what's going on from line to line.
+  + **[Build a Bot.](https://colab.research.google.com/drive/18f0pvnrb7I7IAYu1soWRBi4RiwLbW5Iy?usp=sharing){:target="_blank"}** This Google Colab notebook offers easy-to-follow directions to make your own fully functional text bot. Based on the code for the [KJVBot](https://twitter.com/kjvbot){:target="_blank"} tweeter, it auto-generates its own verses based on the King James Version Bible. It is easily adaptable to other texts. No coding experience is necessary here, but each step is annotated for those who want to understand more about what's going on from line to line.
 
 ---
 ## *COURSES* ##
