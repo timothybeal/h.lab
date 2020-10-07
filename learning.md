@@ -13,11 +13,11 @@ permalink: learning
   
     "Getting Started with Coding for Humanities Scholars," by [Micah Saxton](https://tischlibrary.tufts.edu/about-us/people/micah-saxton), Tufts University, with [Michael Hemenway](https://michaelphemenway.com/resume/), AI.Iliff, October 28, 2020 @ 3pm ET
   
-    “Build a Bot: A DIY Toy that Makes You Think,” by [Timothy Beal](https://case.edu/artsci/hlab/about/timothy-beal), Department of Religious Studies, November 4, 2020 @ 3pm ET
+    "Build a Bot: A DIY Toy that Makes You Think," by [Timothy Beal](https://case.edu/artsci/hlab/about/timothy-beal), Department of Religious Studies, November 4, 2020 @ 3pm ET
 
-    “Transformers: Analyzing Language with Deep Learning,” by Justin Barber and [Michael Hemenway](https://michaelphemenway.com/resume/), AI.Iliff, November 18, 2020 @ 3pm ET
+    "Transformers: Analyzing Language with Deep Learning," by Justin Barber and [Michael Hemenway](https://michaelphemenway.com/resume/), AI.Iliff, November 18, 2020 @ 3pm ET
 
-    “Data Science and Art: Conservation and Attribution,” by T.B.D., Department of Art History and Art and Department of Physics, December 9, 2020 @ 3:00 pm ET
+    "Data Science in Art: Discerning the Painter's Hand," by Elizabeth Bolman, Department of Art History and Art, and Ina Martin, Michael Hinczewski, and Kenneth Singer, Department of Physics, December 9, 2020 @ 3:00 pm ET
     
     "Introduction to the Red Hen Lab Rapid Annotator," by Peter Uhrig, February 10, 2021 @ 3pm ET
     
