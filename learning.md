@@ -11,9 +11,9 @@ permalink: learning
 
   + **[Coding and Data Science for the Humanities.](https://cognitivescience.case.edu/data-science-colloquium/){:target="_blank"}** Fall 2020 and Spring 2021. Highly accessible, humanities-oriented presentations, including DIY tutorials (see "DIY Tutorials," below) and critical reflection on theoretical issues and implications. A special series of the Data Science Colloquium, which is a project of the Data Science Across the College initiative, directed by Mark Turner and Timothy Beal, in collaboration with [h.lab](https://case.edu/artsci/hlab/){:target="_blank"}, [Red Hen Lab](https://sites.google.com/site/distributedlittleredhen/home){:target="_blank"}, and [AI.Iliff](https://ai.iliff.edu){:target="_blank"}. All presentations will be live recorded Zoom sessions. Ask mark.turner@case.edu for an invitation.
   
-    "Getting Started with Coding for Humanities Scholars," by [Micah Saxton](https://tischlibrary.tufts.edu/about-us/people/micah-saxton), Tufts University, with [Michael Hemenway](https://michaelphemenway.com/resume/), AI.Iliff, October 28, 2020 @ 3pm ET
+    "Getting Started with Coding for Humanities Scholars," by [Micah Saxton](https://tischlibrary.tufts.edu/about-us/people/micah-saxton), Tufts University, and [Michael Hemenway](https://michaelphemenway.com/resume/), AI.Iliff, October 28, 2020 @ 3pm ET. [Video recording here](https://cwru.zoom.us/rec/share/fqJaXMwaZUe9lFgaviyl1AYM6WudhwMEpKXlhMtEm-uEN6FZYil1XcaBd4sTiU2P.LCsL8uMRDeDssI2R?startTime=1603911662000) and accompanying [Google Colab notebook here](https://colab.research.google.com/drive/1m9er740u-D9Gw2ZeWfBfa2N7iu3CQToL?usp=sharing).
   
-    "Build a Bot: A DIY Toy that Makes You Think," by [Timothy Beal](https://case.edu/artsci/hlab/about/timothy-beal), Department of Religious Studies, November 4, 2020 @ 3pm ET
+    "Build a Bot: A DIY Toy that Makes You Think," by [Timothy Beal](https://case.edu/artsci/hlab/about/timothy-beal), Department of Religious Studies, with [Michael Hemenway](https://michaelphemenway.com/resume/), AI.Iliff, November 4, 2020 @ 3pm ET
 
     "Transformers: Analyzing Language with Deep Learning," by Justin Barber and [Michael Hemenway](https://michaelphemenway.com/resume/), AI.Iliff, November 18, 2020 @ 3pm ET
 
