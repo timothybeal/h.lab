@@ -23,9 +23,11 @@ permalink: learning
     
     "Data Science for FrameNet and Frame Blends," by [Wenyue Xi](https://www.linkedin.com/in/wenyue-xi-b21b57a4) and [Mark Turner](https://markturner.org), February 24, 2021 @ 3pm ET
     
-    Presentation by Tiago Torrent, Federal University of Juiz de Fora – FrameNet Brasil, March 10, 2021 @ 3pm ET
+    "Fine-grained Semantic Representations for Multimodal Data Analysis," by Tiago Torrent, Federal University of Juiz de Fora – FrameNet Brasil, March 10, 2021 @ 3pm ET
     
-    Presentation by [Cristóbal Pagán Cánovas](https://sites.google.com/site/cristobalpagancanovas/), University of Murcia and University of Tübingen, April 14, 2021 @ 3pm ET
+    "Corpus-Based Genre Analysis in Writing Research and Pedagogy," by J. Elliott Casal, Research Scholar, Department of Cognitive Science, Case Western Reserve University, March 24, 2021 @ 3pm ET
+    
+    "Machine Learning for Poetic Creativity in Oral Traditional Performance," by [Cristóbal Pagán Cánovas](https://sites.google.com/site/cristobalpagancanovas/), Ramón y Cajal Assistant Research Professor, Department of English Philology, University of Murcia; Alexander von Humboldt Fellow, Quantitative Linguistics, University of Tübingen, April 14, 2021 @ 3pm ET
 
 
   + **[Data Science Colloquium.](https://cognitivescience.case.edu/data-science-colloquium/){:target="_blank"}** Spring 2020. A project of the Data Science Across the College initiative, directed by Mark Turner and Timothy Beal and supported by a grant from former CWRU President Barbara Snyder, to build on strengths and potentials across many fields, including the arts and humanities, social and behavioral sciences, and natural and mathematical sciences, to elevate data science and machine learning as a college-wide focus for research, scholarship, and curriculum development. All presentations available as Zoom recordings.
