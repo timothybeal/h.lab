@@ -35,7 +35,9 @@ permalink: learning
 ---  
 ## *DIY TUTORIALS* ##
 
-  + **[Build a Bot.](https://colab.research.google.com/drive/18f0pvnrb7I7IAYu1soWRBi4RiwLbW5Iy?usp=sharing){:target="_blank"}** This Google Colab notebook offers easy-to-follow directions to make your own fully functional text bot. Based on the code for the [KJVBot](https://twitter.com/kjvbot){:target="_blank"} tweeter, it auto-generates its own verses based on the King James Version Bible. It is easily adaptable to other texts. No coding experience is necessary here, but each step is annotated for those who want to understand more about what's going on from line to line.
+  + **[Build a Bot.](https://colab.research.google.com/drive/18f0pvnrb7I7IAYu1soWRBi4RiwLbW5Iy?usp=sharing){:target="_blank"}** A Colab notebook created by Timothy Beal with easy-to-follow directions to build your own fully functional text bot. Based on the code for the [KJVBot](https://twitter.com/kjvbot){:target="_blank"} tweeter, it auto-generates its own verses based on the King James Version Bible. It is easily adaptable to other texts. No coding experience is necessary here, but each step is annotated for those who want to understand more about what's going on from line to line.
+  
+  + **[Getting Started with Coding for Humanities Scholars](https://colab.research.google.com/drive/1m9er740u-D9Gw2ZeWfBfa2N7iu3CQToL?usp=sharing){:target="_blank"}** Aa highly accessible, humanities-oriented, hands-on introduction to coding and natural language processing (NLP) in the programming language of Python. A great place to take your first steps into coding for the humanities! Created by [Micah Saxton](https://tischlibrary.tufts.edu/about-us/people/micah-saxton) and [Michael Hemenway](https://michaelphemenway.com/resume/). [See also this video presentation of the notebook by Micah and Michael](https://cwru.zoom.us/rec/share/fqJaXMwaZUe9lFgaviyl1AYM6WudhwMEpKXlhMtEm-uEN6FZYil1XcaBd4sTiU2P.LCsL8uMRDeDssI2R?startTime=1603911662000).
 
 ---
 ## *COURSES* ##
